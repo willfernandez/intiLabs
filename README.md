@@ -1,1 +1,1 @@
-
+Primer proyecto cms realizado con laravel y angular.
